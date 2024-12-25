@@ -91,6 +91,10 @@ create table partners (
     constraint partners_pk primary key (id)
 );
 
+
+
+--inserting some data to be able to analyze
+
 insert into partners( partner_name, partner_address)
 values('AUTO FIX', 'BAKU');
 
