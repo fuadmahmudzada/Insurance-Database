@@ -10,8 +10,8 @@ This project is a database for an insurance system. It contains some analytical 
 ## Getting Started 
 ### Prerequisites
 
-Oracle Sql
-Sql Developer (management tool) 19c or higher
+* Oracle Sql
+* Sql Developer (management tool) 19c or higher
 
 
 ### Installation
@@ -19,9 +19,9 @@ Sql Developer (management tool) 19c or higher
 Clone the repository:
 git clone https://github.com/fuadmahmudzada/yalli.git
 
-Run queries
-Insert some data
-Analyze the functions
+Run queries   
+Insert some data   
+Analyze the functions    
 
 
 ## Live Sql
